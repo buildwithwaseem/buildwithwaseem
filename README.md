@@ -1,5 +1,7 @@
 ## Hi, I'm Waseem Akram ✨
 
+🎯 Aspiring AI Engineer | Building in Public
+📍 India | Open to Internships
 🧠 Computer Science student specializing in AI/ML at Sandip University<br/>
 🚀 Builder at heart — I love turning creative ideas into reality<br/>
 💻 I create AI automation tools to solve real-world complex problems<br/>
@@ -19,59 +21,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=buildwithwaseem&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-# Hi, I'm [Name] 👋
-
-🎯 Aspiring AI Engineer | Building in Public
-📍 India | Open to Internships
-
-## 🚀 Currently Building
-- Document Q&A Bot (RAG + FastAPI)
-- AI Study Assistant
-
-## 🛠️ Tech Stack
-Python | FastAPI | LangChain | ChromaDB | Docker
-
-## 📚 Journey
-🗓️ Started: June 2026
-🎯 Goal: AI Engineer role by Sept 2026
-
-## 📂 Projects
-| Project | Description | Live |
-|---|---|---|
-| Doc Q&A Bot | PDF pe sawaal pucho | [Demo]() |
-| Study Assistant | Notes se flashcards | [Demo]() |
-
-## 📝 I write about my journey
-[LinkedIn]() • [Hashnode Blog]() • [YouTube]()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
