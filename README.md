@@ -19,4 +19,59 @@
 ---
 [![](https://komarev.com/ghpvc/?username=buildwithwaseem&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# Hi, I'm [Name] 👋
+
+🎯 Aspiring AI Engineer | Building in Public
+📍 India | Open to Internships
+
+## 🚀 Currently Building
+- Document Q&A Bot (RAG + FastAPI)
+- AI Study Assistant
+
+## 🛠️ Tech Stack
+Python | FastAPI | LangChain | ChromaDB | Docker
+
+## 📚 Journey
+🗓️ Started: June 2026
+🎯 Goal: AI Engineer role by Sept 2026
+
+## 📂 Projects
+| Project | Description | Live |
+|---|---|---|
+| Doc Q&A Bot | PDF pe sawaal pucho | [Demo]() |
+| Study Assistant | Notes se flashcards | [Demo]() |
+
+## 📝 I write about my journey
+[LinkedIn]() • [Hashnode Blog]() • [YouTube]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
