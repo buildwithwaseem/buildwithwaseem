@@ -1,7 +1,7 @@
 ## Hi, I'm Waseem Akram ✨
 
-🎯 Aspiring AI Engineer | Building in Public
-📍 India | Open to Internships
+🎯 Aspiring AI Engineer | Building in Public<br/>
+📍 India | Open to Internships<br/>
 🧠 Computer Science student specializing in AI/ML at Sandip University<br/>
 🚀 Builder at heart — I love turning creative ideas into reality<br/>
 💻 I create AI automation tools to solve real-world complex problems<br/>
